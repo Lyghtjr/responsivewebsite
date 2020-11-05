@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/responsivewebsite/static/css/main.bc33ee3a.chunk.css",
+    "main.js": "/responsivewebsite/static/js/main.793a1abd.chunk.js",
+    "main.js.map": "/responsivewebsite/static/js/main.793a1abd.chunk.js.map",
+    "runtime-main.js": "/responsivewebsite/static/js/runtime-main.5910d3ee.js",
+    "runtime-main.js.map": "/responsivewebsite/static/js/runtime-main.5910d3ee.js.map",
+    "static/css/2.b9b989d7.chunk.css": "/responsivewebsite/static/css/2.b9b989d7.chunk.css",
+    "static/js/2.0ca94518.chunk.js": "/responsivewebsite/static/js/2.0ca94518.chunk.js",
+    "static/js/2.0ca94518.chunk.js.map": "/responsivewebsite/static/js/2.0ca94518.chunk.js.map",
+    "index.html": "/responsivewebsite/index.html",
+    "static/css/2.b9b989d7.chunk.css.map": "/responsivewebsite/static/css/2.b9b989d7.chunk.css.map",
+    "static/css/main.bc33ee3a.chunk.css.map": "/responsivewebsite/static/css/main.bc33ee3a.chunk.css.map",
+    "static/js/2.0ca94518.chunk.js.LICENSE.txt": "/responsivewebsite/static/js/2.0ca94518.chunk.js.LICENSE.txt",
+    "static/media/android.0c30a85a.png": "/responsivewebsite/static/media/android.0c30a85a.png",
+    "static/media/app.62b05e1a.png": "/responsivewebsite/static/media/app.62b05e1a.png",
+    "static/media/digital.e4caf157.jpg": "/responsivewebsite/static/media/digital.e4caf157.jpg",
+    "static/media/graphics.25437b9d.jpg": "/responsivewebsite/static/media/graphics.25437b9d.jpg",
+    "static/media/img1.f5888ec3.jpg": "/responsivewebsite/static/media/img1.f5888ec3.jpg",
+    "static/media/img2.7315702c.jpg": "/responsivewebsite/static/media/img2.7315702c.jpg",
+    "static/media/software.9ded89e0.jpg": "/responsivewebsite/static/media/software.9ded89e0.jpg",
+    "static/media/web.76151616.png": "/responsivewebsite/static/media/web.76151616.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5910d3ee.js",
+    "static/css/2.b9b989d7.chunk.css",
+    "static/js/2.0ca94518.chunk.js",
+    "static/css/main.bc33ee3a.chunk.css",
+    "static/js/main.793a1abd.chunk.js"
+  ]
+}
