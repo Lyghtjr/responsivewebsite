@@ -3,6 +3,7 @@ import { NavLink } from 'react-router-dom';
 const Common=(props)=>{
  return(
     <>
+   <div style={{height:"600px"}}>
    <section id="header" className="d-flex align-items-center">
       <div className="container-fluid nav-bg">
       <div className="row">
@@ -23,7 +24,7 @@ const Common=(props)=>{
       </div>
       </div>
    </section>
-
+   </div>
 
     </>
  )
